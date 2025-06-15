@@ -1,39 +1,57 @@
-📜 Textbasierte RPG Game — Projektbeschreibung
-Dies ist ein einfaches textbasiertes RPG (Role-Playing Game), das vollständig mit HTML, CSS und JavaScript entwickelt wurde.
+# 🐉 Text-Based RPG Game — Dragon Repeller
 
-Hauptfunktionen:
+A simple and fun **text-based RPG** built with pure **HTML, CSS, and JavaScript**.  
+Perfect for beginners to explore game logic, event handling, and DOM manipulation.
 
-Spieler starten mit Grundausrüstung (Stock, wenig Gold, 100 Lebenspunkten).
+---
 
-Spieler können zwischen verschiedenen Orten wechseln:
+## 🎮 Features
 
-Stadtplatz → Basisstation
+- Start with basic gear: a stick, 50 gold, and 100 health.
+- Move between locations:
+  - 🏘️ **Town Square** – your base
+  - 🛒 **Store** – buy weapons, heal up
+  - 🕳️ **Cave** – fight monsters for XP and gold
+- Fight different enemies:
+  - Slime
+  - Beast
+  - Dragon 🐲
+- Upgrade weapons and manage inventory.
+- Earn XP and gold to level up.
+- Win or lose depending on your strategy.
+- 💡 Includes a hidden **number-guessing minigame** for bonus gold!
 
-Laden → Waffen kaufen, Lebenspunkte heilen
+---
 
-Höhle → Monster bekämpfen
+## 🛠️ Tech Stack
 
-Dynamische Kämpfe gegen verschiedene Monster (Schleim, Bestie, Drache).
+- HTML
+- CSS
+- JavaScript (Vanilla, no libraries)
+- No backend or server — fully **client-side**
 
-Waffen verbessern und Inventar verwalten.
+---
 
-Erfahrung sammeln, Gold verdienen und versuchen, das Spiel zu gewinnen.
+## 🚀 Goals of the Project
 
-Sieg oder Niederlage je nach Entscheidungen und Kampferfolg.
+- Practice JavaScript fundamentals (functions, arrays, objects, conditions).
+- Learn event handling (`onclick`) and updating the DOM.
+- Understand basic game loops and decision-making logic.
+- Easily expandable: add new weapons, enemies, or locations.
 
-Ein verstecktes Easter Egg Minispiel (Zahlenspiel) für Bonus-Gold!
+---
 
-Technische Besonderheiten:
+## 📸 Screenshot
 
-Komplett clientseitig — keine Serververbindung nötig.
 
-Einfacher, modularer Code: perfekt für Einsteiger zum Lernen von DOM-Manipulation und Spiellogik.
 
-Gut erweiterbar: Neue Orte, Monster oder Waffen können leicht hinzugefügt werden.
 
-🎯 Ziel des Projekts
-Üben von JavaScript-Logik (Funktionen, Bedingungen, Arrays, Objekte).
 
-Umgang mit Event-Handling (onclick) und DOM-Updates.
+---
 
-Erste Erfahrungen mit Text-Adventure-Logik und Spielfluss-Management sammeln.
+
+## ✨ Getting Started
+
+Just open `index.html` in any modern browser — no installation needed.
+
+---
