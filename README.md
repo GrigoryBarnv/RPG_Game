@@ -44,6 +44,7 @@ Perfect for beginners to explore game logic, event handling, and DOM manipulatio
 ## 📸 Screenshot
 
 
+![image](https://github.com/user-attachments/assets/52e0c002-87a1-4c21-a4bf-4276b6f6c220)
 
 
 
