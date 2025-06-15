@@ -1,6 +1,13 @@
 body {
-    background-color: darkblue;
-  }
+  background-image: url("image/epic-dragon.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
   
   #text {
     background-color: black;
